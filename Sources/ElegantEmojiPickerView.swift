@@ -7,31 +7,35 @@
 
 import SwiftUI
 
-struct ElegantEmojiPickerView: UIViewControllerRepresentable {
-    let onEmojiPicked: (String) -> Void
+public struct ElegantEmojiPickerView: UIViewControllerRepresentable {
+    private let onEmojiPicked: (String) -> Void
 
-    func makeCoordinator() -> Coordinator {
+    public init(onEmojiPicked: @escaping (String) -> Void) {
+        self.onEmojiPicked = onEmojiPicked
+    }
+
+    public func makeCoordinator() -> Coordinator {
         Coordinator(onEmojiPicked: onEmojiPicked)
     }
 
-    func makeUIViewController(context: Context) -> ElegantEmojiPicker {
+    public func makeUIViewController(context: Context) -> ElegantEmojiPicker {
         let configuration = ElegantConfiguration(showRandom: false, showReset: false, showClose: false)
         let picker = ElegantEmojiPicker(delegate: context.coordinator, configuration: configuration)
         return picker
     }
 
-    func updateUIViewController(_ uiViewController: ElegantEmojiPicker, context: Context) {
+    public func updateUIViewController(_ uiViewController: ElegantEmojiPicker, context: Context) {
         // Nothing to update
     }
 
-    class Coordinator: NSObject, ElegantEmojiPickerDelegate {
+    public class Coordinator: NSObject, ElegantEmojiPickerDelegate {
         private let onEmojiPicked: (String) -> Void
 
         init(onEmojiPicked: @escaping (String) -> Void) {
             self.onEmojiPicked = onEmojiPicked
         }
 
-        func emojiPicker(_ picker: ElegantEmojiPicker, didSelectEmoji emoji: Emoji?) {
+        public func emojiPicker(_ picker: ElegantEmojiPicker, didSelectEmoji emoji: Emoji?) {
             guard let emoji else { return }
 
             onEmojiPicked(emoji.emoji)
