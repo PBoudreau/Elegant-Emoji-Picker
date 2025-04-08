@@ -224,8 +224,8 @@ open class ElegantEmojiPicker: UIViewController {
 
 extension ElegantEmojiPicker {
     func didSelectSection(_ index: Int) {
-        collectionView.scrollToItem(at: IndexPath(row: 0, section: index), at: .centeredVertically, animated: true)
-        
+        scrollToHeaderAt(index: index)
+
         overridingFocusedSection = true
         self.focusedSection = index
         self.toolbar?.UpdateCorrectSelection(animated: true)
@@ -233,7 +233,28 @@ extension ElegantEmojiPicker {
             self.overridingFocusedSection = false
         }
     }
-    
+
+    private func scrollToHeaderAt(index: Int) {
+        let indexPath = IndexPath(row: 0, section: index)
+
+        // Get the layout attributes for the section header
+        guard let headerAttributes = collectionView.layoutAttributesForSupplementaryElement(
+            ofKind: UICollectionView.elementKindSectionHeader,
+            at: indexPath
+        ) else {
+            return
+        }
+
+        // Get the current content offset of the collection view
+        var offset = collectionView.contentOffset
+
+        // Calculate the position where the header should be placed (top of the collection view)
+        offset.y = headerAttributes.frame.origin.y - collectionView.adjustedContentInset.top
+
+        // Scroll to that position
+        collectionView.setContentOffset(offset, animated: true)
+    }
+
     func HideBuiltInToolbar () {
         toolbarBottomConstraint?.constant = 50
         UIView.animate(withDuration: 0.5, delay: 0, usingSpringWithDamping: 0.7, initialSpringVelocity: 0.4) {
