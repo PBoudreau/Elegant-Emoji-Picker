@@ -65,14 +65,9 @@ end
 
 trap(:PIPE) { abort }
 
-# Write the JSON data to a new file
-output_file = File.expand_path("../emoji-updated.json", __FILE__)
-
-# Create the file and write the JSON content
-File.open(output_file, "w:UTF-8") do |file|
-    file.write(JSON.pretty_generate(items)
-               .gsub("\n\n", "\n")
-               .gsub(/,\n( +)/) { "\n%s, " % $1[2..-1] })
+# Open emoji.json for writing (this will overwrite any existing content)
+File.open(File.expand_path('../emoji.json', __FILE__), 'w:UTF-8') do |file|
+    file.puts JSON.pretty_generate(items)
+    .gsub("\n\n", "\n")
+    .gsub(/,\n( +)/) { "\n%s, " % $1[2..-1] }
 end
-
-puts "Data has been written to #{output_file}"
