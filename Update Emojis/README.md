@@ -23,3 +23,4 @@ ruby emoji-test.txt
 ```
 
 * *emoji.json* should have been updated with the new content from *emoji-test.txt* while preserving tags.
+* Replace *emoji.json* in *Elegant-Emoji-Picker/Sources/Resources/emoji.json* with the updated version.
