@@ -8,7 +8,9 @@
 		],
 		"tags": [
 			"smile",
-			"happy"
+			"happy",
+			"cheerful",
+			"joyful"
 		],
 		"unicode_version": "6.1",
 		"ios_version": "6.0"
@@ -23,7 +25,9 @@
 		"tags": [
 			"happy",
 			"joy",
-			"haha"
+			"haha",
+			"cheerful",
+			"joyful"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -39,7 +43,9 @@
 			"happy",
 			"joy",
 			"laugh",
-			"pleased"
+			"pleased",
+			"cheerful",
+			"joyful"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -52,7 +58,8 @@
 			"grin"
 		],
 		"tags": [
-
+			"see",
+			"look"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -67,7 +74,9 @@
 		],
 		"tags": [
 			"happy",
-			"haha"
+			"haha",
+			"cheerful",
+			"joyful"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -80,7 +89,9 @@
 			"sweat_smile"
 		],
 		"tags": [
-			"hot"
+			"hot",
+			"cheerful",
+			"joyful"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -107,7 +118,9 @@
 			"joy"
 		],
 		"tags": [
-			"tears"
+			"tears",
+			"laughing",
+			"crying"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -160,7 +173,9 @@
 			"wink"
 		],
 		"tags": [
-			"flirt"
+			"flirt",
+			"tease",
+			"charm"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -173,7 +188,9 @@
 			"blush"
 		],
 		"tags": [
-			"proud"
+			"proud",
+			"see",
+			"look"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -186,7 +203,9 @@
 			"innocent"
 		],
 		"tags": [
-			"angel"
+			"angel",
+			"angelic",
+			"pure"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -199,7 +218,9 @@
 			"smiling_face_with_three_hearts"
 		],
 		"tags": [
-			"love"
+			"love",
+			"romance",
+			"affection"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1"
@@ -213,7 +234,9 @@
 		],
 		"tags": [
 			"love",
-			"crush"
+			"crush",
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -239,7 +262,9 @@
 			"kissing_heart"
 		],
 		"tags": [
-			"flirt"
+			"flirt",
+			"smooch",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -252,7 +277,8 @@
 			"kissing"
 		],
 		"tags": [
-
+			"smooch",
+			"affection"
 		],
 		"unicode_version": "6.1",
 		"ios_version": "6.0"
@@ -279,7 +305,8 @@
 			"kissing_closed_eyes"
 		],
 		"tags": [
-
+			"smooch",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -292,7 +319,8 @@
 			"kissing_smiling_eyes"
 		],
 		"tags": [
-
+			"smooch",
+			"affection"
 		],
 		"unicode_version": "6.1",
 		"ios_version": "6.0"
@@ -346,7 +374,9 @@
 		],
 		"tags": [
 			"prank",
-			"silly"
+			"silly",
+			"tease",
+			"charm"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -427,7 +457,9 @@
 		],
 		"tags": [
 			"gasp",
-			"shock"
+			"shock",
+			"see",
+			"look"
 		],
 		"unicode_version": "14.0",
 		"ios_version": "15.4"
@@ -440,7 +472,8 @@
 			"face_with_peeking_eye"
 		],
 		"tags": [
-
+			"see",
+			"look"
 		],
 		"unicode_version": "14.0",
 		"ios_version": "15.4"
@@ -507,7 +540,9 @@
 			"raised_eyebrow"
 		],
 		"tags": [
-			"suspicious"
+			"suspicious",
+			"see",
+			"look"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1"
@@ -612,7 +647,8 @@
 			"roll_eyes"
 		],
 		"tags": [
-
+			"see",
+			"look"
 		],
 		"unicode_version": "8.0",
 		"ios_version": "9.1"
@@ -768,7 +804,8 @@
 			"face_with_bags_under_eyes"
 		],
 		"tags": [
-
+			"see",
+			"look"
 		],
 		"unicode_version": "16.0",
 		"ios_version": "18.4"
@@ -837,7 +874,8 @@
 		],
 		"tags": [
 			"barf",
-			"sick"
+			"sick",
+			"gross"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1"
@@ -905,7 +943,8 @@
 			"dizzy_face"
 		],
 		"tags": [
-
+			"see",
+			"look"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -918,7 +957,8 @@
 			"face_with_spiral_eyes"
 		],
 		"tags": [
-
+			"see",
+			"look"
 		],
 		"unicode_version": "13.1",
 		"ios_version": "14.0"
@@ -1161,7 +1201,9 @@
 		],
 		"tags": [
 			"tears",
-			"gratitude"
+			"gratitude",
+			"laughing",
+			"crying"
 		],
 		"unicode_version": "14.0",
 		"ios_version": "15.4"
@@ -1215,7 +1257,8 @@
 			"cold_sweat"
 		],
 		"tags": [
-			"nervous"
+			"nervous",
+			"relief"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1325,7 +1368,8 @@
 			"sweat"
 		],
 		"tags": [
-
+			"relief",
+			"nervous"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1465,7 +1509,8 @@
 		"tags": [
 			"dead",
 			"danger",
-			"poison"
+			"poison",
+			"death"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1479,7 +1524,8 @@
 		],
 		"tags": [
 			"danger",
-			"pirate"
+			"pirate",
+			"death"
 		],
 		"unicode_version": "",
 		"ios_version": "9.1"
@@ -1546,7 +1592,9 @@
 			"ghost"
 		],
 		"tags": [
-			"halloween"
+			"halloween",
+			"haunted",
+			"spooky"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1559,7 +1607,9 @@
 			"alien"
 		],
 		"tags": [
-			"ufo"
+			"ufo",
+			"space",
+			"extraterrestrial"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1573,7 +1623,9 @@
 		],
 		"tags": [
 			"game",
-			"retro"
+			"retro",
+			"space",
+			"extraterrestrial"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1586,7 +1638,8 @@
 			"robot"
 		],
 		"tags": [
-
+			"ai",
+			"machine"
 		],
 		"unicode_version": "8.0",
 		"ios_version": "9.1"
@@ -1599,7 +1652,8 @@
 			"smiley_cat"
 		],
 		"tags": [
-
+			"cheerful",
+			"joyful"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1612,7 +1666,8 @@
 			"smile_cat"
 		],
 		"tags": [
-
+			"cheerful",
+			"joyful"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1625,7 +1680,8 @@
 			"joy_cat"
 		],
 		"tags": [
-
+			"laughing",
+			"crying"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1638,7 +1694,8 @@
 			"heart_eyes_cat"
 		],
 		"tags": [
-
+			"feline",
+			"kitty"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1651,7 +1708,8 @@
 			"smirk_cat"
 		],
 		"tags": [
-
+			"feline",
+			"kitty"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1664,7 +1722,8 @@
 			"kissing_cat"
 		],
 		"tags": [
-
+			"smooch",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1677,7 +1736,9 @@
 			"scream_cat"
 		],
 		"tags": [
-			"horror"
+			"horror",
+			"feline",
+			"kitty"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1691,7 +1752,9 @@
 		],
 		"tags": [
 			"sad",
-			"tear"
+			"tear",
+			"feline",
+			"kitty"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1704,7 +1767,8 @@
 			"pouting_cat"
 		],
 		"tags": [
-
+			"feline",
+			"kitty"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1776,7 +1840,9 @@
 		],
 		"tags": [
 			"love",
-			"heart"
+			"heart",
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1789,7 +1855,9 @@
 			"gift_heart"
 		],
 		"tags": [
-			"chocolates"
+			"chocolates",
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1802,7 +1870,8 @@
 			"sparkling_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1815,7 +1884,8 @@
 			"heartpulse"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1828,7 +1898,8 @@
 			"heartbeat"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1841,7 +1912,8 @@
 			"revolving_hearts"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1854,7 +1926,8 @@
 			"two_hearts"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1867,7 +1940,8 @@
 			"heart_decoration"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1880,7 +1954,8 @@
 			"heavy_heart_exclamation"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "",
 		"ios_version": "9.1"
@@ -1893,7 +1968,8 @@
 			"broken_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1906,7 +1982,8 @@
 			"heart_on_fire"
 		],
 		"tags": [
-
+			"burning",
+			"hot"
 		],
 		"unicode_version": "13.1",
 		"ios_version": "14.0"
@@ -1919,7 +1996,8 @@
 			"mending_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "13.1",
 		"ios_version": "14.0"
@@ -1932,7 +2010,9 @@
 			"heart"
 		],
 		"tags": [
-			"love"
+			"love",
+			"romance",
+			"affection"
 		],
 		"unicode_version": "",
 		"ios_version": "6.0"
@@ -1945,7 +2025,8 @@
 			"pink_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "15.0",
 		"ios_version": "16.4"
@@ -1958,7 +2039,8 @@
 			"orange_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1"
@@ -1971,7 +2053,8 @@
 			"yellow_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1984,7 +2067,8 @@
 			"green_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -1997,7 +2081,8 @@
 			"blue_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -2010,7 +2095,8 @@
 			"light_blue_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "15.0",
 		"ios_version": "16.4"
@@ -2023,7 +2109,8 @@
 			"purple_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -2036,7 +2123,8 @@
 			"brown_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "12.0",
 		"ios_version": "13.0"
@@ -2049,7 +2137,8 @@
 			"black_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "9.0",
 		"ios_version": "10.2"
@@ -2062,7 +2151,8 @@
 			"grey_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "15.0",
 		"ios_version": "16.4"
@@ -2075,7 +2165,8 @@
 			"white_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "12.0",
 		"ios_version": "13.0"
@@ -2088,7 +2179,9 @@
 			"kiss"
 		],
 		"tags": [
-			"lipstick"
+			"lipstick",
+			"smooch",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -2156,7 +2249,9 @@
 		],
 		"tags": [
 			"water",
-			"workout"
+			"workout",
+			"relief",
+			"nervous"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -2197,7 +2292,9 @@
 			"speech_balloon"
 		],
 		"tags": [
-			"comment"
+			"comment",
+			"talk",
+			"chat"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -2210,7 +2307,8 @@
 			"eye_speech_bubble"
 		],
 		"tags": [
-
+			"see",
+			"look"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1"
@@ -2223,7 +2321,8 @@
 			"left_speech_bubble"
 		],
 		"tags": [
-
+			"talk",
+			"chat"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1"
@@ -2779,7 +2878,9 @@
 			"heart_hands"
 		],
 		"tags": [
-			"love"
+			"love",
+			"romance",
+			"affection"
 		],
 		"unicode_version": "14.0",
 		"ios_version": "15.4",
@@ -3022,7 +3123,8 @@
 			"anatomical_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "13.0",
 		"ios_version": "14.0"
@@ -3089,7 +3191,8 @@
 			"eye"
 		],
 		"tags": [
-
+			"see",
+			"look"
 		],
 		"unicode_version": "7.0",
 		"ios_version": "9.1"
@@ -4605,7 +4708,8 @@
 			"firefighter"
 		],
 		"tags": [
-
+			"burning",
+			"hot"
 		],
 		"unicode_version": "12.1",
 		"ios_version": "13.2",
@@ -4619,7 +4723,8 @@
 			"man_firefighter"
 		],
 		"tags": [
-
+			"burning",
+			"hot"
 		],
 		"unicode_version": "",
 		"ios_version": "10.2",
@@ -4633,7 +4738,8 @@
 			"woman_firefighter"
 		],
 		"tags": [
-
+			"burning",
+			"hot"
 		],
 		"unicode_version": "",
 		"ios_version": "10.2",
@@ -4918,7 +5024,8 @@
 			"man_with_gua_pi_mao"
 		],
 		"tags": [
-
+			"death",
+			"danger"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0",
@@ -6978,7 +7085,9 @@
 			"lotus_position"
 		],
 		"tags": [
-			"meditation"
+			"meditation",
+			"pose",
+			"yoga"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1",
@@ -6992,7 +7101,9 @@
 			"lotus_position_man"
 		],
 		"tags": [
-			"meditation"
+			"meditation",
+			"pose",
+			"yoga"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1",
@@ -7006,7 +7117,9 @@
 			"lotus_position_woman"
 		],
 		"tags": [
-			"meditation"
+			"meditation",
+			"pose",
+			"yoga"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1",
@@ -7107,7 +7220,8 @@
 			"couplekiss"
 		],
 		"tags": [
-
+			"smooch",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0",
@@ -7121,7 +7235,8 @@
 			"couplekiss_man_woman"
 		],
 		"tags": [
-
+			"smooch",
+			"affection"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1",
@@ -7135,7 +7250,8 @@
 			"couplekiss_man_man"
 		],
 		"tags": [
-
+			"smooch",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "8.3",
@@ -7149,7 +7265,8 @@
 			"couplekiss_woman_woman"
 		],
 		"tags": [
-
+			"smooch",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "8.3",
@@ -7163,7 +7280,8 @@
 			"couple_with_heart"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0",
@@ -7177,7 +7295,8 @@
 			"couple_with_heart_woman_man"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1",
@@ -7191,7 +7310,8 @@
 			"couple_with_heart_man_man"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "8.3",
@@ -7205,7 +7325,8 @@
 			"couple_with_heart_woman_woman"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "8.3",
@@ -7848,7 +7969,9 @@
 			"cat"
 		],
 		"tags": [
-			"pet"
+			"pet",
+			"feline",
+			"kitty"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -7861,7 +7984,8 @@
 			"cat2"
 		],
 		"tags": [
-
+			"feline",
+			"kitty"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -7874,7 +7998,8 @@
 			"black_cat"
 		],
 		"tags": [
-
+			"feline",
+			"kitty"
 		],
 		"unicode_version": "13.0",
 		"ios_version": "14.0"
@@ -9426,7 +9551,8 @@
 			"lotus"
 		],
 		"tags": [
-
+			"pose",
+			"yoga"
 		],
 		"unicode_version": "14.0",
 		"ios_version": "15.4"
@@ -12567,7 +12693,8 @@
 			"fire_engine"
 		],
 		"tags": [
-
+			"burning",
+			"hot"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -14296,7 +14423,9 @@
 			"fire"
 		],
 		"tags": [
-			"burn"
+			"burn",
+			"burning",
+			"hot"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -14362,7 +14491,9 @@
 		],
 		"tags": [
 			"festival",
-			"celebration"
+			"celebration",
+			"burning",
+			"hot"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -14388,7 +14519,8 @@
 			"firecracker"
 		],
 		"tags": [
-
+			"burning",
+			"hot"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1"
@@ -15045,7 +15177,9 @@
 			"dart"
 		],
 		"tags": [
-			"target"
+			"target",
+			"see",
+			"look"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
@@ -15272,7 +15406,8 @@
 			"hearts"
 		],
 		"tags": [
-
+			"romance",
+			"affection"
 		],
 		"unicode_version": "",
 		"ios_version": "6.0"
@@ -18788,7 +18923,8 @@
 			"fire_extinguisher"
 		],
 		"tags": [
-
+			"burning",
+			"hot"
 		],
 		"unicode_version": "11.0",
 		"ios_version": "12.1"
@@ -18918,7 +19054,8 @@
 			"identification_card"
 		],
 		"tags": [
-
+			"feline",
+			"kitty"
 		],
 		"unicode_version": "14.0",
 		"ios_version": "15.4"
@@ -21317,7 +21454,8 @@
 			"u7533"
 		],
 		"tags": [
-
+			"feline",
+			"kitty"
 		],
 		"unicode_version": "6.0",
 		"ios_version": "6.0"
